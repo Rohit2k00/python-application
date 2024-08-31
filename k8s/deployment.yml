@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: python-app
-          image: rohitwasnik1112/python-app
+          image: rohitwasnik1112/python-app:tagname
           ports:
             - containerPort: 80
 
